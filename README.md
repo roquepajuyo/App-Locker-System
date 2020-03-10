@@ -1,5 +1,5 @@
 # App-Locker-System
-# FEATURES LIST
+## FEATURES LIST
 ### User can create security code
 ### User can enter security code
 ### User can change security code
